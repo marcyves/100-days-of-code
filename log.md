@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 26, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- Started the 100 Days of Code in order to track my progress with completing a long time project: ZOGG.
+- I am using this App for many years to help me with grading students group work during a course. So it may be considerd 'production ready'. However, there are some mandatory features missing in order to be used by someone else.
+    - Installation procedure.
+    - Most administration features.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Thus I started working on the adminstration...
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:**
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- The DB model needs improvements, should I correct it and restart most coding ? Or should I just keep that for later because 'it just works' ?
+- I don't like the user interface even if I made it. It needs improvements too but I will focus first on features.
 
 
-### Day 1: June 27, Monday
+**Link to work:** [ZOGG: On Line Grading App](https://github.com/marcyves/ZOGG)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
