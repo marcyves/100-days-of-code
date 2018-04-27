@@ -19,3 +19,18 @@ Thus I started working on the adminstration...
 
 **Link to work:** [ZOGG: On Line Grading App](https://github.com/marcyves/ZOGG)
 
+### Day 2: April 27, 2018
+
+**Today's Progress**: 
+
+- Looked into GitHub features to track my progresses. Created a project, wiki, issues. I still need to move the todo into issues.
+- Administration now allows to create schools, programs and courses. Update and delete will follow soon.
+
+
+**Thoughts:**
+
+- The user interface of the new admin page needs (lots of) improvements too but I will focus first on features.
+
+
+**Link to work:** [ZOGG: On Line Grading App](https://github.com/marcyves/ZOGG)
+
