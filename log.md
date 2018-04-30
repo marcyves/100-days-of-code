@@ -39,3 +39,11 @@ Thus I started working on the adminstration...
 
 - I'd like to have a clean install in order to prepare a demo website.
 
+### Day 4: April 30, 2018
+
+**Today's Progress**: 
+
+- Preparing for installation procedure
+- Created install folder with SQL to create and initialize tables
+- Basic process described in the Wiki
+- Prepared demo website
