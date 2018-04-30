@@ -46,4 +46,5 @@ Thus I started working on the adminstration...
 - Preparing for installation procedure
 - Created install folder with SQL to create and initialize tables
 - Basic process described in the Wiki
-- Prepared demo website
+- Prepared demo website at http://zogg.xdm-consulting.fr 
+- Identified a lot of bugs in fresh install, I need to identify and list them
