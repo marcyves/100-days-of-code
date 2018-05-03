@@ -48,3 +48,27 @@ Thus I started working on the adminstration...
 - Basic process described in the Wiki
 - Prepared demo website at http://zogg.xdm-consulting.fr 
 - Identified a lot of bugs in fresh install, I need to identify and list them
+
+**Thoughts:**
+
+I am amazed how much progress I could make on this project in a few days!
+
+### Day 5: May 2, 2018
+
+**Today's Progress**: 
+
+- Administration improvements, mainly for the presentation. 
+
+**Thoughts:**
+
+- The demo site is very helpful to test different situations. It's more a test site than a demo one, my only constraint is to check I did not break anything before I stop working on it.
+
+### Day 6: May 3, 2018
+
+**Today's Progress**: 
+
+- Small Administration improvements, creation of the assignment menu. 
+
+**Thoughts:**
+
+- Busy day. Making many progresses on this project, however I need to go back to normal life
