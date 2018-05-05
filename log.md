@@ -72,3 +72,13 @@ I am amazed how much progress I could make on this project in a few days!
 **Thoughts:**
 
 - Busy day. Making many progresses on this project, however I need to go back to normal life
+
+### Day 7: May 5, 2018
+
+**Today's Progress**: 
+
+- Assignment menu and management quite working now. Creation and List, I need to improve the UI (again) and add a discard button and I will consider that enough for now.
+
+**Thoughts:**
+
+- I realized 'UserCake' is now called 'USerSpice', that I am stuck with version 2 and the current version is now 4. To make it short, I need to upgrade that!
