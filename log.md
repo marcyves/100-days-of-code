@@ -82,3 +82,13 @@ I am amazed how much progress I could make on this project in a few days!
 **Thoughts:**
 
 - I realized 'UserCake' is now called 'USerSpice', that I am stuck with version 2 and the current version is now 4. To make it short, I need to upgrade that!
+
+### Day 8: May 7, 2018
+
+**Today's Progress**: 
+
+- Assignment menu and management working for professor and admin.
+- admin can manage all (creation and delete)
+- professor can manage only those for their courses
+
+I created a new table to record which courses are attached to which professor, so now I need to propagate the usage of it to all the functions. Not urgent, I am actually the only user!
