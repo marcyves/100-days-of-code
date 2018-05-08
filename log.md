@@ -92,3 +92,10 @@ I am amazed how much progress I could make on this project in a few days!
 - professor can manage only those for their courses
 
 I created a new table to record which courses are attached to which professor, so now I need to propagate the usage of it to all the functions. Not urgent, I am actually the only user!
+
+### Day 9: May 8, 2018
+
+**Today's Progress**: 
+
+- admin can update courses
+- Admin and professor can update assignments
