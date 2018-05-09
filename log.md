@@ -99,3 +99,12 @@ I created a new table to record which courses are attached to which professor, s
 
 - admin can update courses
 - Admin and professor can update assignments
+
+### Day 10: May 9, 2018
+
+**Today's Progress**: 
+
+- Vanilla Bootstrap theme creation
+- Personalization of the theme (theme.php and style.php)
+
+Some theme related stuff is in my_functions.php, I have to sort this out and move everything design related to theme.php
