@@ -108,3 +108,9 @@ I created a new table to record which courses are attached to which professor, s
 - Personalization of the theme (theme.php and style.php)
 
 Some theme related stuff is in my_functions.php, I have to sort this out and move everything design related to theme.php
+
+
+### Day 11: May 10, 2018
+
+**Today's Progress**: 
+No coding today. Reading bootstrap documentation in order to do it right from the begining
