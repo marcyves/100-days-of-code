@@ -80,7 +80,6 @@ I am amazed how much progress I could make on this project in a few days!
 - Assignment menu and management quite working now. Creation and List, I need to improve the UI (again) and add a discard button and I will consider that enough for now.
 
 **Thoughts:**
-
 - I realized 'UserCake' is now called 'USerSpice', that I am stuck with version 2 and the current version is now 4. To make it short, I need to upgrade that!
 
 ### Day 8: May 7, 2018
@@ -109,8 +108,18 @@ I created a new table to record which courses are attached to which professor, s
 
 Some theme related stuff is in my_functions.php, I have to sort this out and move everything design related to theme.php
 
-
 ### Day 11: May 10, 2018
 
 **Today's Progress**: 
 No coding today. Reading bootstrap documentation in order to do it right from the begining
+
+### Day 12: May 11, 2018
+
+**Today's Progress**: 
+Created new theme from StartBootstrap 
+Modified theme.php and my_functions.php to move all design stuff to theme.php
+Adapted, modified, updated everything and I have now a much better looking application
+
+**Thoughts:**
+Thank you BootStrap !
+I made a mistake in the commit to GitHub and labeled it DAY 11 instead of 12. Just because I was looking to the last commit and forgot I did not code yesterday.
