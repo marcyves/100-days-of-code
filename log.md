@@ -123,3 +123,8 @@ Adapted, modified, updated everything and I have now a much better looking appli
 **Thoughts:**
 Thank you BootStrap !
 I made a mistake in the commit to GitHub and labeled it DAY 11 instead of 12. Just because I was looking to the last commit and forgot I did not code yesterday.
+
+### Day 13: May 12, 2018
+Upgraded FontAwesome from version 4 to 5 in order to get more icons.
+Replaced some pictures with FA icons.
+Improvements to startbootstrap theme.
