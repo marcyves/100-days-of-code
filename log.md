@@ -128,3 +128,7 @@ I made a mistake in the commit to GitHub and labeled it DAY 11 instead of 12. Ju
 Upgraded FontAwesome from version 4 to 5 in order to get more icons.
 Replaced some pictures with FA icons.
 Improvements to startbootstrap theme.
+
+### Day 14: May 13, 2018
+Clean up login page
+Learned to place sticky bootstrap footer at bottom of page
