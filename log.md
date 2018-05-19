@@ -132,3 +132,7 @@ Improvements to startbootstrap theme.
 ### Day 14: May 13, 2018
 Clean up login page
 Learned to place sticky bootstrap footer at bottom of page
+
+### Day 15: May 19, 2018
+Better column positioning, removed large left margin.
+Made a 1-click grading page. I used a PHP Array in the grading FORM in order to put only 1 button to submit the whole stuff instead of one button per team. Small change but huge usability improvement.
