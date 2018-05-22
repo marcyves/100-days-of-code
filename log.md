@@ -136,3 +136,10 @@ Learned to place sticky bootstrap footer at bottom of page
 ### Day 15: May 19, 2018
 Better column positioning, removed large left margin.
 Made a 1-click grading page. I used a PHP Array in the grading FORM in order to put only 1 button to submit the whole stuff instead of one button per team. Small change but huge usability improvement.
+
+### Day 16: May 20, 2018
+I changed to another project, using Python.
+Now preparing small development Python projects in order to teach how to code.
+I already have Tic Tac Toe covering procedural and OOP. I need to make a PyGame version.
+I restared from scratch the farm project to make it more ambitious.
+I am thinking about hosting those on GitHub...
