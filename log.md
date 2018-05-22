@@ -142,4 +142,7 @@ I changed to another project, using Python.
 Now preparing small development Python projects in order to teach how to code.
 I already have Tic Tac Toe covering procedural and OOP. I need to make a PyGame version.
 I restared from scratch the farm project to make it more ambitious.
-I am thinking about hosting those on GitHub...
+I am thinking about hosting those on GitHub, created a repository https://github.com/marcyves/Python-Pratique
+
+### Day 17: May 22, 2018
+farm simulation quite working
