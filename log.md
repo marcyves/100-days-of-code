@@ -163,4 +163,5 @@ Learned Selenium and BeautifulSoup to automate web testing and implement some We
 Many things to do to complete this Python thing.
  - update https://github.com/marcyves/Python-Pratique with the code I have done
  - complete the Heroku developement
+ - create a script to update automatically Twitter (and this page?) every #100DaysOfCode
 
