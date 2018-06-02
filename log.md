@@ -146,3 +146,21 @@ I am thinking about hosting those on GitHub, created a repository https://github
 
 ### Day 17: May 22, 2018
 farm simulation quite working
+
+### Day 18: May 27, 2018
+farm simulation working fine in 2 versions : procedural and OOP
+
+### Day 19: May 22, 2018
+Learned how to use Flask with Heroku to set up the farm simulation online
+
+### Day 20: May 31, 2018
+Completed Heroku setup, I need to move the farm code there now
+
+### Day 21: June 2, 2018
+Learned Selenium and BeautifulSoup to automate web testing and implement some Web Scrapping
+
+**Thoughts:**
+Many things to do to complete this Python thing.
+ - update https://github.com/marcyves/Python-Pratique with the code I have done
+ - complete the Heroku developement
+
