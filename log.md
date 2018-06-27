@@ -165,3 +165,11 @@ Many things to do to complete this Python thing.
  - complete the Heroku developement
  - create a script to update automatically Twitter (and this page?) every #100DaysOfCode
 
+### Day 22: June 26, 2018
+Was offline but worked many things until now:
+- Web scrapping
+- Instagram scrapping with https://github.com/timgrossmann/InstaPy
+- A Python version of todo.txt
+
+### Day 23: June 27, 2018
+- Posted my todo.txt https://github.com/marcyves/Python-Pratique/tree/master/todo
